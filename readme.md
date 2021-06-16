@@ -14,4 +14,4 @@
 
 [Video that helped me to build this application](https://www.youtube.com/watch?v=dam0GPOAvVI&list=PLzMcBGfZo4-kNEPqSOaglnUZz3D2R4OzY)
 
-[Link to the Actual website](https://notes.vercel.app)
+[Link to the Actual website](https://Mynotes.vercel.app)
